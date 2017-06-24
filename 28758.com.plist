@@ -17,7 +17,7 @@
             <key>needs-shine</key>
             <true/>
             <key>url</key>
-            <string/>
+            <string>http://103.41.184.108/content/skin/28758/images/share/logo_ioc.png</string>
           </dict>
           <dict>
             <key>kind</key>
@@ -25,7 +25,7 @@
             <key>needs-shine</key>
             <true/>
             <key>url</key>
-            <string/>
+            <string>http://103.41.184.108/content/skin/28758/images/share/logo_ioc.png</string>
           </dict>
         </array>
         <key>metadata</key>
